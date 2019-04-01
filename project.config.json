@@ -4,7 +4,7 @@
 	"cloudfunctionRoot": "cloudfunctions/",
 	"description": "基于taro mobx taro-ui的微信小程序  天天新闻",
   "appid": "",
-  // 配置你的APPID
+
 	"setting": {
 		"urlCheck": false,
 		"es6": false,
